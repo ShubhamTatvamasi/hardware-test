@@ -1,5 +1,5 @@
 # hardwaretest
 Hardware Test
 ```
-cat /proc/bus/input/devices |grep -i name
+cat /proc/bus/input/devices | grep -i name
 ```
